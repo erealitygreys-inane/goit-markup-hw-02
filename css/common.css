@@ -5,11 +5,7 @@ body {
   background-color: #ffffff;
 }
 
-.menu-list,
-.contacts-list,
-.features-list,
-.team-list,
-.portfolio-list {
+ul {
   list-style: none;
 }
 
