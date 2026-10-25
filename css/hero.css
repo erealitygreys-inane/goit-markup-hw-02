@@ -2,25 +2,25 @@
   background-color: #2e2f42;
 }
 
-.hero-title {
+.hero-heading {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  font-weight: 700;
-  color: #ffffff;
   text-align: center;
+  color: #ffffff;
 }
 
-.hero-button {
-  background-color: #4d5ae5;
-  color: #ffffff;
+.hero-action {
   font-size: 16px;
+  font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  font-weight: 500;
+  color: #ffffff;
+  background-color: #4d5ae5;
+  cursor: pointer;
 }
 
-.hero-button:hover,
-.hero-button:focus {
+.hero-action:hover,
+.hero-action:focus {
   background-color: #404bbf;
 }
